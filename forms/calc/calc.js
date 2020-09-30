@@ -1,3 +1,4 @@
+
 // creates the function
 
 function Calculate(num1, num2) {
@@ -14,6 +15,4 @@ let y = parseInt(prompt("Pick a number"))
 let summedNumbers = Calculate(x, y) 
 
 console.log(`The sum of ${x} and ${y} is ${summedNumbers}`)
-
-
 
